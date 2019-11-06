@@ -1,0 +1,7 @@
+# Ignore these Folders:
+tmp/
+venv/
+
+# Ignore these Files:
+.DS_Store
+
