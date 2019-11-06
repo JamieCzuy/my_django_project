@@ -54,7 +54,8 @@ remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
 Receiving objects: 100% (3/3), done.
 ```
 
-5. Change to the repo's folder:
+5. Change to the repo's folder...
+For me it was:
 ```
 cd my_django_project
 ```
