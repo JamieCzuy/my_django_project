@@ -1,6 +1,4 @@
-# My Django Project
-
-# Create a github repo and clone it to local folder
+# STEP #1 - Create a github repo and clone it to local folder
 
 ## Log into github and create a new repo
 
@@ -40,7 +38,7 @@ You should still have the repo's url in the clipboard so it is just
 
 It should be something like:
 ```
-git clone git@github.com:< YOUR_NAME >/< YOUR REPO'S NAME >
+git clone git@github.com:<< YOUR_NAME >>/<< YOUR REPO'S NAME >>
 ```
 for me it was:
 ```
@@ -93,7 +91,7 @@ git log
 Output should be something like:
 ```
 commit << COMMIT_ID: UUID >> (HEAD -> master, origin/master, origin/HEAD)
-Author: << YOUR_NAME >> Jamie Czuy < << YOUR_GITHUB_EMAIL >> >
+Author: << YOUR_NAME >> < << YOUR_GITHUB_EMAIL >> >
 Date:   Wed Nov 6 14:53:32 2019 -0500
 
     Initial commit
